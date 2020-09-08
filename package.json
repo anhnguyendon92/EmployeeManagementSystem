@@ -1,0 +1,23 @@
+{
+  "name": "employeemanagementsystem",
+  "version": "1.0.0",
+  "description": "Team Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhnguyendon92/EmployeeManagementSystem.git"
+  },
+  "author": "Anh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhnguyendon92/EmployeeManagementSystem/issues"
+  },
+  "homepage": "https://github.com/anhnguyendon92/EmployeeManagementSystem#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "inquirer": "^7.3.3"
+  }
+}
